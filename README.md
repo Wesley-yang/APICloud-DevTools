@@ -4,20 +4,38 @@
 
 让HTML5前端开发者使用Sublime快速开发原生苹果与安卓APP。 Sublime APICloud Plugins是为HTML5前端开发者提供的一套开源的Sublime Text扩展插件，包括：应用管理、应用框架、页面模板、代码提示、代码管理、Widget打包、真机同步、日志输出、管理自定义AppLoader等功能，其他的功能插件也在不断增加，这些插件已被Package Control成功收录，开发者可以直接在Sublime Text3中下载安装；所有插件都已开源，开发者也可以在此基础上按需求扩展自己的插件。
 
-**开源地址** : [https://github.com/apicloudcom?utf8=%E2%9C%93&q=su&type=&language=](https://github.com/apicloudcom?utf8=%E2%9C%93&q=su&type=&language=)
+**开源地址** :
+
+* [https://github.com/apicloudcom/Sublime-APICloud-Snippet](https://github.com/apicloudcom/Sublime-APICloud-Snippet)
+
+* [https://github.com/apicloudcom/Sublime-APICloud-Loader](https://github.com/apicloudcom/Sublime-APICloud-Loader)
+
+* [https://github.com/apicloudcom/Sublime-APICloud-Package](https://github.com/apicloudcom/Sublime-APICloud-Package)
+
+* [https://github.com/apicloudcom/Sublime-TortoiseSVN](https://github.com/apicloudcom/Sublime-TortoiseSVN)
+
+* [https://github.com/apicloudcom/Sublime-APICloud-WifiSync](https://github.com/apicloudcom/Sublime-APICloud-WifiSync)
 
 ## Atom 插件
 
 Atom APICloud Plugins是APICloud为开发者提供的一套开源的基于nodejs的Atom扩展插件，包括：创建应用框架、创建页面模板、代码模糊智能提示、Wifi真机同步、Wifi日志输出等功能，其他的功能也在不断增加，这些插件已被 atom.io 成功收录，开发者可以直接在 Atom编辑器中搜索APICloud关键字
 下载安装；所有插件都已开源，开发者也可以在此基础上按需求扩展自己的插件。
 
-**开源地址** : [https://github.com/apicloudcom/atom-apicloud-package](https://github.com/apicloudcom/atom-apicloud-package)
+**开源地址** :
+* [https://github.com/apicloudcom/atom-apicloud-package](https://github.com/apicloudcom/atom-apicloud-package)
+
+* [https://github.com/apicloudcom/apicloud_autocomplete_atom](https://github.com/apicloudcom/apicloud_autocomplete_atom)
 
 ## APICloud Studio
 
 APICloud Studio专为HTML5前端开发者快速开发原生苹果与安卓APP而定制。 APICloud Studio是基于Eclipse和Aptana Studio3进行扩展，集成了包括：应用管理、模版框架、云端同步、代码管理、代码提示、本地打包、真机同步、AppLoader管理，编译自定义AppLoader等功能。企业和开发者也可以在此开源代码的基础上定制自己的APICloud开发工具。
 
-**开源地址** : [https://github.com/apicloudcom/APICloud-Studio](https://github.com/apicloudcom/APICloud-Studio)
+**开源地址** :
+* [https://github.com/apicloudcom/APICloud-Studio](https://github.com/apicloudcom/APICloud-Studio)
+
+* [https://github.com/apicloudcom/APICloud-Studio-RCP-Win](https://github.com/apicloudcom/APICloud-Studio-RCP-Win)
+
+* [https://github.com/apicloudcom/APICloud-Studio-RCP-Mac](https://github.com/apicloudcom/APICloud-Studio-RCP-Mac)
 
 ## WebStorm 插件
 
@@ -42,3 +60,9 @@ APICloud 开发工具核心库,支持新建页面模板,新建应用模板,WiFi�
 apicloud-polyfill,是 APICloud 为切实提高前端开发者的混发开发体验而推出的一个脚手架. 借助 apicloud-polyfill ,前端开发者可以直接使用最新的 es6,es7语法,在 JS 层以模块化的方式,高效优雅地开发APICloud 应用.
 
 **开源地址** : [https://github.com/apicloudcom/apicloud-polyfill](https://github.com/apicloudcom/apicloud-polyfill)
+
+## VSCode 语法提示插件
+
+APICloud 专门为VSCode推出的语法提示插件.方便VSCode开发工具使用者,更高效,更快速地进行 APICloud 应用的开发.
+
+**开源地址** : [https://github.com/apicloudcom/vscode-snippets](https://github.com/apicloudcom/vscode-snippets)
